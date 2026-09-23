@@ -1,0 +1,64 @@
+# Pastas geradas automaticamente pela Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Capturas de memória e gravações (podem ficar muito pesadas)
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Cache do Visual Studio e Rider
+.vs/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Arquivos de solução e projeto gerados automaticamente
+ExportedObj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Arquivos meta gerados pela Unity3D
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Relatórios de crash da Unity
+sysinfo.txt
+crashlytics-build.properties
+
+# Builds e pacotes
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Cache do Gradle (para builds Android)
+.gradle/
+
+# Addressables empacotados
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Backups do Blender
+*.blend1
+*.blend2
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
